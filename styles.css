@@ -1,0 +1,60 @@
+body {
+    margin: 0px 0px;
+    padding-bottom: 10px;
+    /* margin-top: 0px; */
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+    margin-right: 15px;
+}
+
+input[type=button] {
+    margin-top: 15px;
+}
+
+#top-div {
+  display:inline-block;
+  width: 100%;
+  margin-top: 0px;
+  padding-top: 0px;
+  background-image: url("https://s17.postimg.org/r3zwbwtn3/splatter-clipart-colour-splash-17.jpg");
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+}
